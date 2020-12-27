@@ -20,4 +20,4 @@ or you can say :node index.js -a 'some note'
 You should use --add or -a to add a new note .
 
 #### UML :
-![UML Diagram](/images/ImagefromiOS.jpg) 
+![UML Diagram](./images/ImagefromiOS.jpg) 
