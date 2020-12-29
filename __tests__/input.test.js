@@ -2,6 +2,13 @@
 
 const Input = require('../lib/input');
 
+jest.mock('minimist');
+minimist.mockImplementation(()=>{
+    return {
+      add :'hey'
+    }
+});
+
 describe('Input Module',()=>{
     it ('addNote() is correct it return action',()=>{
         let text = new Input();

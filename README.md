@@ -3,7 +3,7 @@
 
 #### Links and Resources :
 [Class1](https://github.com/Aseelsamer/notes/compare/class01?expand=1)
-[Class2]()
+[Class2](https://github.com/Aseelsamer/notes/pull/1)
 
 #### Modules :
 node.js
@@ -21,4 +21,4 @@ or you can say :node index.js -a 'some note'
 You should use --add or -a to add a new note .
 
 #### UML :
-![UML Diagram](/images/ImagefromiOS.jpg) 
+![UML Diagram](/images/umllab2.jpg) 
