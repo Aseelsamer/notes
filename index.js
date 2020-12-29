@@ -10,5 +10,5 @@ const yourNotes = new Notes(yourAdds);
 // yourAdds.validateMethod();
 yourAdds.addNote();
 
-yourNotes.execute();
-yourNotes.add();
+// yourNotes.execute();
+// yourNotes.add();
