@@ -4,6 +4,7 @@
 #### Links and Resources :
 [Class1](https://github.com/Aseelsamer/notes/compare/class01?expand=1)
 [Class2](https://github.com/Aseelsamer/notes/pull/1)
+[Class3](https://github.com/Aseelsamer/notes/pull/3)
 
 #### Modules :
 node.js
