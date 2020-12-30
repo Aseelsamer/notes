@@ -16,6 +16,12 @@ minimist
 For example : node index.js --add 'some note'
 
 or you can say :node index.js -a 'some note'
+to list every note in the Database :`node index.js --list`
+ to list specifice categoery : `node index.js --list categories `
+
+ to delete a note : `node index.js --delete 'id' `
+
+ to update note :`node index.js --update 'updated note' --id ' id'` 
 
 
 #### How to use your library :
